@@ -10,5 +10,9 @@
     "banner_url_1": "https://wa.me/8801366898899",
     "banner_url_2": "https://te.me/fireclashbd",
     "banner_url_3": "https://youtube.com",
-    "banner_url_4": "https://example.com"
+    "banner_url_4": "https://example.com",
+
+    "banner_image_esports": "https://wallpapers.com/images/hd/free-fire-banner-with-maxim-yhs02ura79wykbjm.jpg",
+    "banner_image_kill_race": "libs/resource/kill_race.png",
+    "banner_image_lone_wolf": "libs/resource/lone_wolf.png"
 }
