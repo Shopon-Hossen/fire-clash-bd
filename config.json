@@ -2,10 +2,10 @@
     "base_url": "http://127.0.0.1:6969/api",
     "wp_number": "01633898899",
     
-    "banner_image_1": "libs/resource/dp_wl.png",
-    "banner_image_2": "libs/resource/join_telegram.png",
-    "banner_image_3": "libs/resource/visit_youtube.png",
-    "banner_image_4": "libs/resource/visit_website.png",
+    "banner_image_1": "https://img.freepik.com/premium-psd/banner-icon-whatsapp-contact-me-label-3d-render-isolated_363450-1026.jpg",
+    "banner_image_2": "https://img.freepik.com/premium-vector/join-us-telegram-social-media-banner-3d-modern-logo-with-telegram-icon_635024-236.jpg",
+    "banner_image_3": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/welcome-to-my-channel-youtube-opening-video-design-template-f9d40f2d0ae55bbd79949cece8d6067b_screen.jpg?ts=1676653842",
+    "banner_image_4": "https://t4.ftcdn.net/jpg/03/38/50/87/360_F_338508759_ScNUoXMdZy6xyqNU3veckBGwMCeNGWsY.jpg",
     
     "banner_url_1": "https://wa.me/8801366898899",
     "banner_url_2": "https://te.me/fireclashbd",
@@ -13,6 +13,6 @@
     "banner_url_4": "https://example.com",
 
     "mode_image_esports": "https://wallpapers.com/images/hd/free-fire-banner-with-maxim-yhs02ura79wykbjm.jpg",
-    "mode_image_kill_race": "libs/resource/kill_race.png",
-    "mode_image_lone_wolf": "libs/resource/lone_wolf.png"
+    "mode_image_kill_race": "https://dotesports.com/wp-content/uploads/2020/03/02123929/kalahari-free-fire.jpg",
+    "mode_image_lone_wolf": "https://cdn.zeebiz.com/sites/default/files/2021/12/20/169860-untitled-design-2021-12-20t113513627.jpg?im=FitAndFill=(448,252)&format=webp&quality=medium"
 }
