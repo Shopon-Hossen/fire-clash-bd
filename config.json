@@ -12,7 +12,7 @@
     "banner_url_3": "https://youtube.com",
     "banner_url_4": "https://example.com",
 
-    "banner_image_esports": "https://wallpapers.com/images/hd/free-fire-banner-with-maxim-yhs02ura79wykbjm.jpg",
-    "banner_image_kill_race": "libs/resource/kill_race.png",
-    "banner_image_lone_wolf": "libs/resource/lone_wolf.png"
+    "mode_image_esports": "https://wallpapers.com/images/hd/free-fire-banner-with-maxim-yhs02ura79wykbjm.jpg",
+    "mode_image_kill_race": "libs/resource/kill_race.png",
+    "mode_image_lone_wolf": "libs/resource/lone_wolf.png"
 }
