@@ -1,4 +1,14 @@
 {
     "base_url": "http://127.0.0.1:6969/api",
-    "wp_number": "016338988xx"
+    "wp_number": "01633898899",
+    
+    "banner_image_1": "libs/resource/dp_wl.png",
+    "banner_image_2": "libs/resource/join_telegram.png",
+    "banner_image_3": "libs/resource/visit_youtube.png",
+    "banner_image_4": "libs/resource/visit_website.png",
+    
+    "banner_url_1": "https://wa.me/8801366898899",
+    "banner_url_2": "https://te.me/fireclashbd",
+    "banner_url_3": "https://youtube.com",
+    "banner_url_4": "https://example.com"
 }
