@@ -1,5 +1,5 @@
 {
-    "base_url": "http://127.0.0.1:6969/api",
+    "base_url": "http://192.168.110.219:8000/api",
     "wp_number": "01633898899",
     
     "banner_image_1": "https://img.freepik.com/premium-psd/banner-icon-whatsapp-contact-me-label-3d-render-isolated_363450-1026.jpg",
