@@ -1,3 +1,14 @@
 {
-    "base_url": "https://shoponhossen.pythonanywhere.com/api"
-}
+            "base_url": "http://127.0.0.1:8000/api",
+            "recipient_number": "013668988xx",
+            "carousel_images": [
+                "https://picsum.photos/seed/fire1/800/400",
+                "https://picsum.photos/seed/fire2/800/400",
+                "https://picsum.photos/seed/fire3/800/400",
+                "https://picsum.photos/seed/fire4/800/400",
+            ],
+            "app_stat": {
+                "total_price_distributed": "60K+ BDT",
+                "players": "10K+"
+            } 
+        }
