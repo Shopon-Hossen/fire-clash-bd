@@ -1,5 +1,5 @@
 {
-    "base_url": "http://127.0.0.1:8000/api",
+    "base_url": "https://shoponhossen.pythonanywhere.com/api",
     "recipient_number": "013668988xx",
     "carousel_images": [
         "placeholder.png",
