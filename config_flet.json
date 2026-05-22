@@ -21,7 +21,7 @@
         "deposit": "https://t.me/fireclashbd",
         "register": "https://t.me/fireclashbd"
     },
-    "latest_version": "1.0.1",
+    "latest_version": "1.0.2",
     "game_modes": {
         "LONE_WOLF": {
             "title": "Lone Wolf",
